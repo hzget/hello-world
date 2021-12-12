@@ -4,5 +4,4 @@ first repo to learn github workflow
 just proceed according to the hello-world guides in github.com 
 https://guides.github.com/activities/hello-world/
 
-* "review" github workflow
-* review commit from others
+* check git command commit
